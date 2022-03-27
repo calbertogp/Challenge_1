@@ -1,2 +1,1 @@
-# Challenge_1
-Challenge 1 micro loans
+#1 Challenge by Carlos A. Guerra
